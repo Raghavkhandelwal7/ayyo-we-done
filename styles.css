@@ -1,0 +1,34 @@
+.grid{
+    margin: 10mm;
+    padding: 10mm;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #fedcba;
+    justify-content: left
+    
+}
+.header{
+    padding:5mm
+}
+.endingStuff{
+    background-color: #fedcba;
+}
+.bodyImg{
+    background-color: #fedcba;
+}
+body{
+    background-color: #fedcba;
+}
+.New {
+color: black;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: black;
+}
+.origami:hover{
+   transform: scale(1.2); 
+}
